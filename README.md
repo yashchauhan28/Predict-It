@@ -1,1 +1,1 @@
-Sentimental analysis using NLTK int python.
+Sentimental analysis using NLTK in python.
